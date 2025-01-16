@@ -1,0 +1,676 @@
+Uri: https://cdn.paddle.com/paddle/paddle.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\paddle\paddle.js
+Content Type: text/javascript
+
+Uri: https://cdn.tolt.io/tolt.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\tolt.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/typebot-js@2.2.17/dist/index.global.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\typebot-js@2.2.17\dist\index.global.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-VXNC8Z7MG5
+File Name: C:\Downloaded Web Sites\www.triplo.ai\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/android.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\android.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/apple-icon.png?f6357442d4411041
+File Name: C:\Downloaded Web Sites\www.triplo.ai\apple-icon.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/apple.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\apple.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/chrome.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\chrome.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/en
+File Name: C:\Downloaded Web Sites\www.triplo.ai\en.html
+Content Type: text/html
+
+Uri: https://www.triplo.ai/en/trial
+File Name: C:\Downloaded Web Sites\www.triplo.ai\en\trial.html
+Content Type: text/html
+
+Uri: https://www.triplo.ai/favicon.ico
+File Name: C:\Downloaded Web Sites\www.triplo.ai\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-1.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-10.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-11.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-11.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-12.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-12.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-13.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-13.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-14.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-14.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-15.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-15.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-16.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-16.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-17.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-17.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-2.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-3.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-4.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-5.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-6.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-7.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-8.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/bottom-icon-9.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\bottom-icon-9.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-1.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-10.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-11.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-11.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-12.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-12.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-13.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-13.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-14.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-14.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-15.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-15.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-16.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-16.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-17.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-17.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-2.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-3.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-4.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-5.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-6.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-7.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-8.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon-slider/top-icon-9.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon-slider\top-icon-9.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/icon.svg?095261482f43b93b
+File Name: C:\Downloaded Web Sites\www.triplo.ai\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/linux.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\linux.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/quote.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/triplo_ai_logo.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\triplo_ai_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/windows.svg
+File Name: C:\Downloaded Web Sites\www.triplo.ai\windows.svg
+Content Type: image/svg+xml
+
+Uri: https://www.triplo.ai/_next/image?url=%2Ffooter-hero.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\footer-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Ffooter-hero.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\footer-hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero-test.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero-test-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero-test.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero-test-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero-test.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero-test-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero-test.webp&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero-test-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero-test.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero-test.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero-test.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero-test-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero-test.webp&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero-test-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero-test.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero-test-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fhero.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Ficons-bg.webp&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\icons-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Ficons-bg.webp&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\icons-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Flaptop.webp&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\laptop.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Flaptop.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\laptop-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fmobile.webp&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fmobile.webp&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\mobile-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-1.webp&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-1.webp&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-2.webp&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-2.webp&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-3.webp&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-3.webp&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-4.webp&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-4.webp&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-5.webp&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-5.webp&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-6.webp&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fti-6.webp&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\ti-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fuser.webp&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\user.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fuser.webp&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\user-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fworkflow.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\workflow.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=%2Fworkflow.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\workflow-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrial-hero.54fe0687.webp&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\trial-hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrial-hero.54fe0687.webp&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\trial-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2F%25E5%259B%25BE%25E7%2589%2587_20231213201738.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\%E5%9B%BE%E7%89%87_20231213201738.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2F%25E5%259B%25BE%25E7%2589%2587_20231213201738.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\%E5%9B%BE%E7%89%87_20231213201738-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2F1_64.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\1_64.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2F1_64.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\1_64-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2F20240419-313A9790.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\20240419-313A9790.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2F20240419-313A9790.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\20240419-313A9790-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FAuthor-Profile-Focus-Library.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Author-Profile-Focus-Library.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FAuthor-Profile-Focus-Library.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Author-Profile-Focus-Library-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Favatar-4c6a1735ddabb01b428744cc8a29f14e.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\avatar-4c6a1735ddabb01b428744cc8a29f14e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Favatar-4c6a1735ddabb01b428744cc8a29f14e.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\avatar-4c6a1735ddabb01b428744cc8a29f14e-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FBrandmark.png%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Brandmark.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FBrandmark.png%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Brandmark-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FCharles-V7.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Charles-V7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FCharles-V7.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Charles-V7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fg8H3CR3v_400x400_2.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\g8H3CR3v_400x400_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fg8H3CR3v_400x400_2.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\g8H3CR3v_400x400_2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FGroup_92x_XdxQp5r.png%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Group_92x_XdxQp5r.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FGroup_92x_XdxQp5r.png%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Group_92x_XdxQp5r-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FGrowthHacker-333_Pxuepx4.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\GrowthHacker-333_Pxuepx4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FGrowthHacker-333_Pxuepx4.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\GrowthHacker-333_Pxuepx4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fi.shgcdn.jpeg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\i.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fi.shgcdn.jpeg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\i-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fimage_6483441.JPG%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\image_6483441.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fimage_6483441.JPG%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\image_6483441-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FIMG_0968.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\IMG_0968.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FIMG_0968.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\IMG_0968-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FIMG_9416.jpeg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\IMG_9416.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FIMG_9416.jpeg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\IMG_9416-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Flogo-sketchSM.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\logo-sketchSM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Flogo-sketchSM.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\logo-sketchSM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fme_CZXjGkJ.webp%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\me_CZXjGkJ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fme_CZXjGkJ.webp%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\me_CZXjGkJ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fnew-img.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\new-img.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fnew-img.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\new-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FPe%25C3%25AFth%25C5%258D_1.png%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Pe%C3%AFth%C5%8D_1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FPe%25C3%25AFth%25C5%258D_1.png%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Pe%C3%AFth%C5%8D_1-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FPeter_Onwe.png%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Peter_Onwe.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FPeter_Onwe.png%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Peter_Onwe-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Frobert-leitinger-icon-logo.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\robert-leitinger-icon-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Frobert-leitinger-icon-logo.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\robert-leitinger-icon-logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Frugoshath_round_logo.png%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\rugoshath_round_logo.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Frugoshath_round_logo.png%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\rugoshath_round_logo-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FSQUARE.png%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\SQUARE.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FSQUARE.png%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\SQUARE-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FTemplate_BG_AVATAR_HITAM.png%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Template_BG_AVATAR_HITAM.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FTemplate_BG_AVATAR_HITAM.png%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Template_BG_AVATAR_HITAM-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Ftree-red.png%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\tree-red.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Ftree-red.png%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\tree-red-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FVector-Breaking-Bad-PNG-Clipart.png%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Vector-Breaking-Bad-PNG-Clipart.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2FVector-Breaking-Bad-PNG-Clipart.png%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\Vector-Breaking-Bad-PNG-Clipart-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fvispunk_2_uK8dpg3.gif%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\vispunk_2_uK8dpg3.gif
+Content Type: image/gif
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fvispunk_2_uK8dpg3.gif%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\vispunk_2_uK8dpg3-1.gif
+Content Type: image/gif
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fwoowjpg.jpg%3Fwidth%3D150&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\woowjpg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fappsumo2-cdn.appsumo.com%2Fmedia%2Fusers%2Favatars%2Fwoowjpg.jpg%3Fwidth%3D150&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\woowjpg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2F4d6a5cca6bce9455f7c4ae50fba277c7%3Fs%3D100%26d%3Dmm&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\4d6a5cca6bce9455f7c4ae50fba277c7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2F4d6a5cca6bce9455f7c4ae50fba277c7%3Fs%3D100%26d%3Dmm&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\4d6a5cca6bce9455f7c4ae50fba277c7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2F8094a6e16d87e925bcdf01ab853ca1f0%3Fs%3D100%26d%3Dmm&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\8094a6e16d87e925bcdf01ab853ca1f0.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2F8094a6e16d87e925bcdf01ab853ca1f0%3Fs%3D100%26d%3Dmm&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\8094a6e16d87e925bcdf01ab853ca1f0-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2Fc3adeee6a74e435ddaea904ba9c49969%3Fs%3D100%26d%3Dmm&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\c3adeee6a74e435ddaea904ba9c49969.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2Fc3adeee6a74e435ddaea904ba9c49969%3Fs%3D100%26d%3Dmm&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\c3adeee6a74e435ddaea904ba9c49969-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2Fd062e2b63eeeb2708fbb7e9357c2acdd%3Fs%3D100%26d%3Dmm&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\d062e2b63eeeb2708fbb7e9357c2acdd.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2Fd062e2b63eeeb2708fbb7e9357c2acdd%3Fs%3D100%26d%3Dmm&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\d062e2b63eeeb2708fbb7e9357c2acdd-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2Fd6f2edddd9a937b02af397ae343e8cae%3Fs%3D100%26d%3Dmm&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\d6f2edddd9a937b02af397ae343e8cae.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/image?url=https:%2F%2Fwww.gravatar.com%2Favatar%2Fd6f2edddd9a937b02af397ae343e8cae%3Fs%3D100%26d%3Dmm&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\d6f2edddd9a937b02af397ae343e8cae-1.png
+Content Type: image/png
+
+Uri: https://www.triplo.ai/_next/static/chunks/123-fdc91fa11c986f1a.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\123-fdc91fa11c986f1a.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/138-71626af8d004f065.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\138-71626af8d004f065.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/17-34b5db2136c3ae40.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\17-34b5db2136c3ae40.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/23-555190ce5535e545.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\23-555190ce5535e545.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/265-742cf5707daae6be.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\265-742cf5707daae6be.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/464-dcda0271bc188c46.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\464-dcda0271bc188c46.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/768-e7d549af5142a368.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\768-e7d549af5142a368.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/app/[locale]/layout-3572512b252ed228.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\app\[locale]\layout-3572512b252ed228.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/app/[locale]/page-39a5d6e8647facb5.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\app\[locale]\page-39a5d6e8647facb5.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/app/[locale]/trial/page-5d10d1d3f9b857f0.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\app\[locale]\trial\page-5d10d1d3f9b857f0.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/app/layout-ce3c90519face502.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\app\layout-ce3c90519face502.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/fd9d1056-b15c156d800dba83.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\fd9d1056-b15c156d800dba83.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/main-app-693d2cd1d3938aa5.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\main-app-693d2cd1d3938aa5.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/chunks/webpack-2a5893f264181ec6.js
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\chunks\webpack-2a5893f264181ec6.js
+Content Type: application/javascript
+
+Uri: https://www.triplo.ai/_next/static/css/05b225c6679dddcb.css
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\css\05b225c6679dddcb.css
+Content Type: text/css
+
+Uri: https://www.triplo.ai/_next/static/css/0f77ec827a1d799b.css
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\css\0f77ec827a1d799b.css
+Content Type: text/css
+
+Uri: https://www.triplo.ai/_next/static/css/33fc1025cc83f8a4.css
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\css\33fc1025cc83f8a4.css
+Content Type: text/css
+
+Uri: https://www.triplo.ai/_next/static/css/fc90c0589634b020.css
+File Name: C:\Downloaded Web Sites\www.triplo.ai\_next\static\css\fc90c0589634b020.css
+Content Type: text/css
+
